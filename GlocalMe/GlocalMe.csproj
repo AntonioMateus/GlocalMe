@@ -150,10 +150,13 @@
     <Content Include="Assets\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Assets\img\callout.jpg" />
     <Content Include="Assets\img\bg.png" />
+    <Content Include="Assets\img\company-logo.png" />
     <Content Include="Assets\img\portfolio-1.jpg" />
     <Content Include="Assets\img\portfolio-2.jpg" />
     <Content Include="Assets\img\portfolio-3.jpg" />
     <Content Include="Assets\img\portfolio-4.jpg" />
+    <Content Include="Assets\img\product1.png" />
+    <Content Include="Assets\img\product2.jpg" />
     <Content Include="Assets\js\bootstrap.js" />
     <Content Include="Assets\js\bootstrap.min.js" />
     <Content Include="Assets\js\jquery.js" />
