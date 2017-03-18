@@ -143,13 +143,13 @@
   <ItemGroup>
     <Content Include="Assets\css\bootstrap.css" />
     <Content Include="Assets\css\bootstrap.min.css" />
-    <Content Include="Assets\css\stylish-portfolio.css" />
+    <Content Include="Assets\css\glocal-me-portfolio.css" />
     <Content Include="Assets\font-awesome\css\font-awesome.css" />
     <Content Include="Assets\font-awesome\css\font-awesome.min.css" />
     <Content Include="Assets\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Assets\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Assets\img\bg.jpg" />
     <Content Include="Assets\img\callout.jpg" />
+    <Content Include="Assets\img\bg.png" />
     <Content Include="Assets\img\portfolio-1.jpg" />
     <Content Include="Assets\img\portfolio-2.jpg" />
     <Content Include="Assets\img\portfolio-3.jpg" />
