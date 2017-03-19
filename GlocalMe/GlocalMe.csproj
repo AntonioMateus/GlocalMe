@@ -133,6 +133,7 @@
     <Content Include="Assets\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Assets\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Assets\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Properties\PublishProfiles\GlocalMe.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -148,19 +149,14 @@
     <Content Include="Assets\font-awesome\css\font-awesome.min.css" />
     <Content Include="Assets\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Assets\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Assets\img\callout.jpg" />
     <Content Include="Assets\img\bg.png" />
     <Content Include="Assets\img\company-logo.png" />
-    <Content Include="Assets\img\portfolio-1.jpg" />
-    <Content Include="Assets\img\portfolio-2.jpg" />
-    <Content Include="Assets\img\portfolio-3.jpg" />
-    <Content Include="Assets\img\portfolio-4.jpg" />
     <Content Include="Assets\img\product1.png" />
     <Content Include="Assets\img\product2.jpg" />
     <Content Include="Assets\js\bootstrap.js" />
     <Content Include="Assets\js\bootstrap.min.js" />
     <Content Include="Assets\js\jquery.js" />
-    <Content Include="Views\index.html" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
