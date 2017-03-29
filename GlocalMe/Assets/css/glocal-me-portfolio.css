@@ -154,8 +154,8 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    height: 100%;
-    background: url(../img/bg.png) no-repeat center center scroll;
+    height: auto;
+    background: #6c6d70;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -223,10 +223,6 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
-}
-
-.img-portfolio:hover {
-    opacity: 0.5;
 }
 
 /* Call to Action */
